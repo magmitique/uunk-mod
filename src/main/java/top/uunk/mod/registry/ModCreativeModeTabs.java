@@ -23,6 +23,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.LEAD_INGOT);
                         output.accept(ModItems.CHISEL);
                         output.accept(ModItems.FOOD_CAN);
+                        output.accept(ModItems.GREASE);
                     }).build());
 
     public static final Supplier<CreativeModeTab> UUNK_BLOCKS_TAB = CREATIVE_MODE_TAB.register("uunk_blocks_tab",
