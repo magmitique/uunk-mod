@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "uunk:lead_ingot"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "   ",
+    " W ",
+    " L "
+  ],
+  "result": {
+    "id": "uunk:chisel"
+  }
+}

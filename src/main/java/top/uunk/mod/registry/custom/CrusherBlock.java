@@ -41,7 +41,7 @@ public class CrusherBlock extends Block {
                 int count = itemEntity.getItem().getCount();
                 int totalCoal = 0;
                 for (int i = 0; i < count; i++) {
-                    totalCoal += ThreadLocalRandom.current().nextInt(0, 4); // 0 à 3
+                    totalCoal += ThreadLocalRandom.current().nextInt(0, 4);
                 }
                 itemEntity.setItem(new ItemStack(Items.COAL, totalCoal));
             }
