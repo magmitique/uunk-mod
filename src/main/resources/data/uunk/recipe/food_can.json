@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "uunk:lead_ingot"
+    },
+    "M": {
+      "item": "minecraft:cooked_beef"
+    },
+    "S": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "B": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "   ",
+    "SMS",
+    "LBL"
+  ],
+  "result": {
+    "id": "uunk:food_can"
+  }
+}

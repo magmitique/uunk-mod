@@ -1,6 +1,8 @@
 {
   "item.uunk.raw_lead": "Plomb Brut",
   "item.uunk.lead_ingot": "Lingot de Plomb",
+  "item.uunk.food_can": "Boite de conserve",
+  "item.uunk.grease": "Graisse",
 
   "block.uunk.lead_block": "Bloc de Plomb",
   "block.uunk.lead_ore": "Minerai de Plomb",

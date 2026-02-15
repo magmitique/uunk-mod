@@ -19,6 +19,12 @@ public class ModItems {
     public static final DeferredItem<Item> CHISEL = ITEMS.register("chisel",
             () -> new ChiselItem(new Item.Properties().durability(16)));
 
+    public static final DeferredItem<Item> FOOD_CAN = ITEMS.register("food_can",
+            () -> new Item(new Item.Properties().food(ModFoodProperties.FOOD_CAN)));
+
+    public static final DeferredItem<Item> GREASE = ITEMS.register("grease",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
