@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 150,
+  "experience": 0.7,
+  "group": "lead",
+  "ingredient": {
+    "item": "uunk:raw_lead"
+  },
+  "result": {
+    "id": "uunk:lead_ingot"
+  }
+}

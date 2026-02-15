@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "uunk:lead_block",
+    "uunk:lead_ore",
+    "uunk:lead_deepslate_ore",
+    "uunk:crusher"
+  ]
+}

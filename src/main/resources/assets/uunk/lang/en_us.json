@@ -1,0 +1,13 @@
+{
+  "item.uunk.raw_lead": "Raw Lead",
+  "item.uunk.lead_ingot": "Lead Ingot",
+  "item.uunk.chisel": "Chisel",
+
+  "block.uunk.lead_block": "Block of Lead",
+  "block.uunk.lead_ore": "Lead Ore",
+  "block.uunk.lead_deepslate_ore": "Lead Deepslate Ore",
+  "block.uunk.crusher": "Crusher",
+
+  "creativetab.uunk.uunk_items": "Uunk's Items",
+  "creativetab.uunk.uunk_blocks": "Uunk's Blocks"
+}

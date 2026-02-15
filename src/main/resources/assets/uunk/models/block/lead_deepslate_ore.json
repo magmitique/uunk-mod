@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "uunk:block/lead_deepslate_ore"
+  }
+}
