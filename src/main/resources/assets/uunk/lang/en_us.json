@@ -11,5 +11,10 @@
   "block.uunk.crusher": "Crusher",
 
   "creativetab.uunk.uunk_items": "Uunk's Items",
-  "creativetab.uunk.uunk_blocks": "Uunk's Blocks"
+  "creativetab.uunk.uunk_blocks": "Uunk's Blocks",
+
+  "tooltip.uunk.hasto.shift_down": "Press §eshift§r to see the tooltip",
+  "tooltip.uunk.crusher_block.tooltip": "Crush item to the§u uunktomic§r state",
+  "tooltip.uunk.chisel.tooltip": "An §auncommon§r item that permit the transformation of certain bloc through uunktomic translation",
+  "tooltip.uunk.grease.tooltip": "Grease can be used as a combustible"
 }

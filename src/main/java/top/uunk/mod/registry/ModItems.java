@@ -6,6 +6,7 @@ import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import top.uunk.mod.Uunk;
 import top.uunk.mod.registry.custom.ChiselItem;
+import top.uunk.mod.registry.custom.GreaseItem;
 
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(Uunk.MOD_ID);
@@ -23,7 +24,7 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoodProperties.FOOD_CAN)));
 
     public static final DeferredItem<Item> GREASE = ITEMS.register("grease",
-            () -> new Item(new Item.Properties()));
+            () -> new GreaseItem(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
