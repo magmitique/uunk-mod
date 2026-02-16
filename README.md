@@ -1,4 +1,3 @@
-
 Hello !
 
 This is my minecraft mod,
